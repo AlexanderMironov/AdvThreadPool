@@ -1,0 +1,19 @@
+List of changes in the project AdvThreadPool.
+
+Date            CommitID                Changes
+
+20.04.2013	20.04.2013-1		Initial upload of the project. Project NOT tested completely yet. 
+20.04.2013      20.04.2013-2		Add text of licence to the every file of the project
+---------------------------------------------------------------------------------------------------------
+21.04.2013	21.04.2013-1		Implement FIFO and PRIO modells in the treadpool (see comments in the code)
+					modify test application.
+21.04.2013      21.04.2013-2		change README.md
+21.04.2013      21.04.2013-3            modify AdvThreadJob interface
+---------------------------------------------------------------------------------------------------------
+13.06.2013	13.06.2013-1		fix problem in the stop function of ThreadPool
+---------------------------------------------------------------------------------------------------------
+08.07.2013	08.07.2013-1		fix problem in the threadpool
+---------------------------------------------------------------------------------------------------------
+08.07.2013      08.07.2013-2		Completely change ThreadPool
+---------------------------------------------------------------------------------------------------------
+.27.07.2013	08.70.2013-1		Fix the problem with only one thread in the threadpool
